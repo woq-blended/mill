@@ -1,6 +1,7 @@
 /*/target/
 target/
 output/
+.coursier/
 .DS_STORE
 .idea_modules
 .idea
